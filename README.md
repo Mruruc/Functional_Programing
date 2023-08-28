@@ -1,2 +1,3 @@
 # Functional_Programing
-Functional Programing in Java.
+## Functional Programing in Java And JavaScript.
+
